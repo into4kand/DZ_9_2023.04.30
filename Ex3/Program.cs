@@ -29,7 +29,7 @@ Console.WriteLine("Введите число ");
 int N = Convert.ToInt32(Console.ReadLine());
 if (N > 0)
 {
-    Console.WriteLine("Кубов всех чисел от 1 до N");
+    Console.WriteLine("Кубы всех чисел от 1 до N");
     Poisk(N);
 }
 else
